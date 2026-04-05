@@ -39,6 +39,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [Cantor](https://www.kde.org/applications/education/cantor/) - KDE frontend to other math programs
   - [KAlgebra](https://www.kde.org/applications/education/kalgebra/) - KDE graphing calculator
   - [Rocs](https://www.kde.org/applications/education/rocs/) - Rocs graphy theory
+  - [Free Math](https://freemathapp.org/) - Open source website for students to show their step-by-step math work digitally and optimized teacher-driven grading for a whole class.
 - **Geography**
   - [OpenStreetMap](https://www.openstreetmap.org/) - Open data world map
   - [KGeography](https://www.kde.org/applications/education/kgeography/) - KDE geography trainer
